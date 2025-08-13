@@ -1,4 +1,4 @@
-# Creative Agency
+# Creative Agency (Landing Page)
 A modern web website
 ## :clipboard: Project Overview
 <div style = "display:flex; gap:10px;">
