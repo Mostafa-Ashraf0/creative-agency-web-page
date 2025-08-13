@@ -12,7 +12,8 @@ A modern web website
 
 ## :sparkler: Features
 
-  - **:iphone: Login :** Login UI (no authentication → takes user to the home page or user can continue as a guest).
+  - **:iphone: side menu :** simple side menu that opens when user click on an icon which contain some features like changing the theme color of the website, activate random background option and activate navigation bullets.
+  - **:iphone: Navigation bullets :** navigation bullets bar that facilitate the user experience to reach specific section in the site.
 
 
 ## :computer: Technology Stack
