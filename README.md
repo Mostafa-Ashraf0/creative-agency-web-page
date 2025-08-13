@@ -3,13 +3,12 @@ A modern web website
 ## :clipboard: Project Overview
 <div style = "display:flex; gap:10px;">
   <img src="images/home.PNG" alt="home" width="30%" height = "auto">
-  <img src="images/test.PNG" alt="test Screenshot" width="30%" height = "auto">
-  <img src="images/time.PNG" alt="time Screenshot" width="30%" height = "auto">
-  <img src="images/form.PNG" alt="form Screenshot" width="30%" height = "auto">
-  <img src="images/features.PNG" alt="features Screenshot" width="30%" height = "auto">
-  <img src="images/about.PNG" alt="about Screenshot" width="30%" height = "auto">
+  <img src="images/test.PNG" alt="test Screenshot" width="32%" height = "auto">
+  <img src="images/time.PNG" alt="time Screenshot" width="32%" height = "auto">
+  <img src="images/form.PNG" alt="form Screenshot" width="32%" height = "auto">
+  <img src="images/features.PNG" alt="features Screenshot" width="32%" height = "auto">
+  <img src="images/about.PNG" alt="about Screenshot" width="32%" height = "auto">
 </div>
-<img src="component.drawio.png" alt="product Screenshot" width="50%" height = "auto">
 
 ## :sparkler: Features
 
