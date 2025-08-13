@@ -2,12 +2,12 @@
 A modern web website
 ## :clipboard: Project Overview
 <div style = "display:flex; gap:10px;">
-  <img src="login.amazon.PNG" alt="login Screenshot" width="30%" height = "auto">
-  <img src="home.amazon.PNG" alt="home Screenshot" width="30%" height = "auto">
-  <img src="cart.amazon.PNG" alt="cart Screenshot" width="30%" height = "auto">
-  <img src="orders.amazon.PNG" alt="orders Screenshot" width="30%" height = "auto">
-  <img src="products.amazon.PNG" alt="products Screenshot" width="30%" height = "auto">
-  <img src="product.amazon.PNG" alt="product Screenshot" width="30%" height = "auto">
+  <img src="images/home.PNG" alt="home" width="30%" height = "auto">
+  <img src="images/test.PNG" alt="test Screenshot" width="30%" height = "auto">
+  <img src="images/time.PNG" alt="time Screenshot" width="30%" height = "auto">
+  <img src="images/form.PNG" alt="form Screenshot" width="30%" height = "auto">
+  <img src="images/features.PNG" alt="features Screenshot" width="30%" height = "auto">
+  <img src="images/about.PNG" alt="about Screenshot" width="30%" height = "auto">
 </div>
 <img src="component.drawio.png" alt="product Screenshot" width="50%" height = "auto">
 
